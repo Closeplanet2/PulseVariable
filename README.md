@@ -32,7 +32,7 @@
 <dependency>
   <groupId>com.pandapulsestudios</groupId>
   <artifactId>pulsevariable</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0-a</version>
 </dependency>
 ```
 
