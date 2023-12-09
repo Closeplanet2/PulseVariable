@@ -24,15 +24,15 @@
 # Maven
 ```
 <repository>
-    <id>pandavariablecore</id>
-    <url>https://maven.pkg.github.com/closeplanet2/PandaVariableCore</url>
+    <id>pulsevariable</id>
+    <url>https://maven.pkg.github.com/closeplanet2/PulseVariable</url>
 </repository>
 ```
 ```
 <dependency>
-    <groupId>com.closeplanet2</groupId>
-    <artifactId>pandavariablecore</artifactId>
-    <version>1.0.0-beta</version>
+  <groupId>com.pandapulsestudios</groupId>
+  <artifactId>pulsevariable</artifactId>
+  <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
 
