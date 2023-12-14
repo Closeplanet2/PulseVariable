@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OUT" />
+      <artifact name="SERVER" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b5d5425-4b23-46b6-8f48-b999a782ad80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/API/JavaAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/INTERFACE/PulseVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/INTERFACE/VariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/PulseVariableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/ArtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/AxisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/BanListTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/ChatColorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/CoalTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/CropStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/DifficultyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/DyeColorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/EffectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/EffectTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/EntityEffectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/FireworkEffectTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/FluidCollisionModeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/FluidTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/GameModeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/GrassSpeciesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/HeightMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/InstrumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/MaterialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/NetherWartsStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/NoteToneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/ParticleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/PortalTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/RaidRaidStatusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/RotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/SandstoneTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/SoundCategoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/SoundTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/StatisticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/StatisticType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/TreeTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/WarningWarningTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/WeatherTypeAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/WorldEnvironmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/BukkitEnums/WorldTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/JavaLang/BoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/JavaLang/DoubleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/JavaLang/FloatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/JavaLang/IntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/JavaLang/LongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/JavaLang/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VariableTests/JavaUtil/UUIDTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/OUT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/OUT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SERVER.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SERVER.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/OUT/pulsevariable.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OUT/pulsevariable.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/API/PulseVarAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/Console/ConsoleAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/Console/MessageType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/INTERFACE/CustomVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/INTERFACE/CustomVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/INTERFACE/VarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/INTERFACE/VariableLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/PulseVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/ArtAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/AxisAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/BanListType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/ChatColorAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/CoalTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/CropStateAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/DifficultyAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/DyeColorAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/EffectAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/EffectTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/EntityEffectAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/FireworkEffectTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/FluidAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/FluidCollisionModeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/GameModeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/GrassSpeciesAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/HeightMapAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/InstrumentAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/MaterialAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/NetherWartsStateAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/NoteToneAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/ParticleAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/PortalTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/RaidRaidStatusAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/RotationAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/SandstoneTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/SkullTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/SoundAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/SoundCategoryAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/StatisticAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/StatisticTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/TreeSpeciesAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/TreeTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/WarningWarningStateAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/WeatherTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/WorldEnvironmentAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/WorldTypeAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/DoubleAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/FloatAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/IntegerAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/LongAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/StringAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/UUIDAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticBed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticUUID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/API/PulseVarAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/Console/ConsoleAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/Console/MessageType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/INTERFACE/CustomVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/INTERFACE/CustomVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/INTERFACE/VarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/INTERFACE/VariableLogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/PulseVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/ArtAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/AxisAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/BanListType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/ChatColorAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/CoalTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/CropStateAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/DifficultyAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/DyeColorAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/EffectAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/EffectTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/EntityEffectAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/FireworkEffectTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/FluidAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/FluidCollisionModeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/GameModeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/GrassSpeciesAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/HeightMapAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/InstrumentAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/MaterialAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/NetherWartsStateAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/NoteToneAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/ParticleAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/PortalTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/RaidRaidStatusAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/RotationAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/SandstoneTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/SkullTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/SoundAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/SoundCategoryAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/StatisticAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/StatisticTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/TreeSpeciesAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/TreeTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/WarningWarningStateAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/WeatherTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/WorldEnvironmentAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/BUKKIT_ENUMS/WorldTypeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/DoubleAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/FloatAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/IntegerAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/LongAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/StringAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/JAVA/UUIDAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticBed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticHashMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulsevariable/VAR_TESTS/STATIC_TESTS/StaticUUID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pulsevariable-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ZXtQ7hSJORnjg0FjTfIYsR2tKJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Coding Portfolio/Spigot Plugins/_Servers/plugins",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PulseVariable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PulseVariable" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PulseVariable package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b5d5425-4b23-46b6-8f48-b999a782ad80" name="Changes" comment="" />
+      <created>1702580233035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702580233035</updated>
+      <workItem from="1702580234311" duration="6814000" />
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+name: PulseVariable
+version: 1.0.0-a
+main: com.pandapulsestudios.pulsevariable.PulseVariable
+authors: [Closeplanet2, PandaPulseStudios]
+api-version: 1.20

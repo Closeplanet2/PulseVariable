@@ -1,6 +1,7 @@
-package com.pandapulsestudios.pulsevariable.INTERFACE;
+package com.pandapulsestudios.pulsevariable.Interface;
 
 public interface CustomVariable {
-    String Return();
-    Object Set(String data);
+    default Class<?> ClassType(){ return null; }
+    String SerializeData();
+    Object DeSerializeData(String serializedData);
 }
